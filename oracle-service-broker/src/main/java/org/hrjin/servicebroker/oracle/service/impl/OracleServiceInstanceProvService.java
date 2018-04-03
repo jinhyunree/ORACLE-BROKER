@@ -40,7 +40,7 @@ public class OracleServiceInstanceProvService implements ServiceInstanceProvServ
     public ServiceInstance createServiceInstance(CreateServiceInstanceRequest createServiceInstanceRequest) throws ServiceInstanceExistsException, ServiceBrokerException {
         // 서비스 인스턴스가 존재하는 지 확인
         ServiceInstance findInstance = oracleAdminService.findById(createServiceInstanceRequest.getServiceInstanceId());
-        logger.info("############# : " + findInstance);
+        logger.info("서비스 인스턴스 존재하니?" + findInstance);
 
         // 요청 정보로부터 ServiceInstance 정보를 생성합니다.
         ServiceInstance instance = oracleAdminService.createServiceInstanceByRequest(createServiceInstanceRequest);
