@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="ORACLE-BROKER_main" target="1.8" />
+      <module name="ORACLE-BROKER_test" target="1.8" />
+      <module name="oracle-service-broker_main" target="1.8" />
+      <module name="oracle-service-broker_test" target="1.8" />
+      <module name="service-java-broker_main" target="1.7" />
+      <module name="service-java-broker_test" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

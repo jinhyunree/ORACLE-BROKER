@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ORACLE-BROKER.iml" filepath="$PROJECT_DIR$/.idea/modules/ORACLE-BROKER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ORACLE-BROKER_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ORACLE-BROKER_main.iml" group="ORACLE-BROKER" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ORACLE-BROKER_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ORACLE-BROKER_test.iml" group="ORACLE-BROKER" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oracle-service-broker.iml" filepath="$PROJECT_DIR$/.idea/modules/oracle-service-broker.iml" group="oracle-service-broker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oracle-service-broker/oracle-service-broker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/oracle-service-broker/oracle-service-broker_main.iml" group="oracle-service-broker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/oracle-service-broker/oracle-service-broker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/oracle-service-broker/oracle-service-broker_test.iml" group="oracle-service-broker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-java-broker.iml" filepath="$PROJECT_DIR$/.idea/modules/service-java-broker.iml" group="service-java-broker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-java-broker/service-java-broker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-java-broker/service-java-broker_main.iml" group="service-java-broker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-java-broker/service-java-broker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-java-broker/service-java-broker_test.iml" group="service-java-broker" />
+    </modules>
+  </component>
+</project>

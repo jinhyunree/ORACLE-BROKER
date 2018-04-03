@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":service-java-broker" external.linked.project.path="$MODULE_DIR$/../../service-java-broker" external.root.project.path="$MODULE_DIR$/../.." external.system.id="GRADLE" external.system.module.group="ORACLE-BROKER" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../service-java-broker">
+      <excludeFolder url="file://$MODULE_DIR$/../../service-java-broker/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../service-java-broker/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

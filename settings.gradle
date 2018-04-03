@@ -1,0 +1,4 @@
+rootProject.name = 'ORACLE-BROKER'
+include 'service-java-broker'
+include 'oracle-service-broker'
+

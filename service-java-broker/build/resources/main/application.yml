@@ -1,0 +1,11 @@
+server:
+  port: 8787
+
+spring:
+  application:
+    name: hhoho
+  datasource:
+    url: jdbc:oracle:thin:@211.104.171.226:59161/xe
+    username: system
+    password: oracle
+    driver-class-name: oracle.jdbc.driver.OracleDriver
